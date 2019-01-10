@@ -1,0 +1,13 @@
+{
+    "make" : "hunda",
+    "year-made": 2010,
+    "color" : "silver",
+    "past-owners" : ["john doe","sam smith"],
+    "current-owner" : "brandon lin",
+    "miles" : 80000,
+    "leased": true
+}
+
+
+
+
